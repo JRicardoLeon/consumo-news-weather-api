@@ -3868,19 +3868,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Rick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Visual Studio 2022\\Proyects\\consumption-news-weather-api\\consumption-news-weather-api\\consumption-news-weather-api.csproj",
-      "projectName": "consumption-news-weather-api",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2022\\Proyects\\consumption-news-weather-api\\consumption-news-weather-api\\consumption-news-weather-api.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\Visual Studio 2022\\Proyects\\consumption-news-weather-api\\consumption-news-weather-api\\obj\\",
+      "projectUniqueName": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj",
+      "projectName": "consumo-news-weather-api",
+      "projectPath": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj",
+      "packagesPath": "C:\\Users\\Rick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rick\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3941,7 +3941,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

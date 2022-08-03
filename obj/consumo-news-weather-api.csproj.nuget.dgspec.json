@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumption-news-weather-api.csproj": {}
+    "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumption-news-weather-api.csproj": {
+    "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumption-news-weather-api.csproj",
-        "projectName": "consumption-news-weather-api",
-        "projectPath": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumption-news-weather-api.csproj",
+        "projectUniqueName": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj",
+        "projectName": "consumo-news-weather-api",
+        "projectPath": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\consumo-news-weather-api.csproj",
         "packagesPath": "C:\\Users\\Rick\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rick\\Documents\\Repositorios Remotos\\consumo-news-weather-api\\obj\\",
         "projectStyle": "PackageReference",
